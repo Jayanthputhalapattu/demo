@@ -6,6 +6,7 @@ public class firstGIT {
   System.out.println("This is first first git repo");
   System.out.println("THis is second commit");
   System.out.println("This is thrd");
+  System.out.println("This is new branch");
 	}
 
 }
