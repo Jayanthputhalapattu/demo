@@ -8,6 +8,7 @@ public class firstGIT {
   System.out.println("This is thrd");
   System.out.println("This is new branch");
   System.out.println("Pushing into new branch");
+  System.out.println("dont know why");
 	}
 
 }
