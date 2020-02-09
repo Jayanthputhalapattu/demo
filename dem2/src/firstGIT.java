@@ -5,6 +5,7 @@ public class firstGIT {
 		// TODO Auto-generated method stub
   System.out.println("This is first first git repo");
   System.out.println("THis is second commit");
+  System.out.println("This is thrd");
 	}
 
 }
